@@ -2,7 +2,7 @@
 
 Portfolio de proyectos de automatización desarrollados con **n8n**, integrando modelos de IA (Cohere, Groq/OpenAI) para resolver casos reales de atención al cliente, procesamiento de correos, generación de informes y gestión de pedidos.
 
-> Serie de ejercicios progresivos del curso de Automatización con IA (Alura).
+> Serie de ejercicios progresivos del curso de Automatización de Flujos: integrando n8n e IA (Alura).
 
 ---
 
