@@ -33,4 +33,4 @@ Cada clase construye sobre conceptos de la anterior: desde un flujo lineal simpl
 
 ## 👤 Autor
 
-Daniel Alberto — Proyecto de práctica, curso de Automatización con IA (Alura).
+Daniel Alberto Arapa— Proyecto de práctica, curso de Automatización con IA (Alura).
